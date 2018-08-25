@@ -1,4 +1,4 @@
-spaCy: Industrial-strength NLP
+spaCy: Industrial-strength NLP :star:
 ******************************
 
 spaCy is a library for advanced Natural Language Processing in Python and Cython.
